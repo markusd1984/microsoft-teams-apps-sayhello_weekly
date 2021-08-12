@@ -8,7 +8,7 @@
     "Description": "Id of the tenant to deploy to (If you are not sure how to get Tenant ID, please check Azure Active Directory in Azure Portal. Under Manage, click Properties. The tenant ID is shown in the Directory ID box). e.g 98f3ece2-3a5a-428b-aa4f-4c41b3f6eef0. Tenant ID is also in the \"Overview\" section\""
   },
   "resourceGroupName": {
-    "Value": "RG-APP-ICEBREAKER-V9",
+    "Value": "RG-APP-ICEBREAKER-WEEKLY-V10",
     "Description": "Resource Group"
   },
   "location": {
@@ -16,7 +16,7 @@
     "Description": "The Azure region that's right for you and your customers. Not every resource is available in every region."
   },
   "baseResourceName": {
-    "Value": "SAYHELLO",
+    "Value": "SAYHELLOWEEKLY",
     "Description": "The base name to use for the resources that will be provisioned."
   },
   "tenantId": {
@@ -64,15 +64,15 @@
     "Description": "The branch of the GitHub repository to deploy."
   },
   "appDisplayName": {
-    "Value": "Say Hello",
+    "Value": "Say Hello Weekly",
     "Description": "The app (and bot) display name."
   },
   "appDescription": {
-    "Value": "Say Hello is a bot that randomly pairs colleagues each month to help encourage cross firm networking and collaboration. Click on the below link 'Terms of use' to find out more.",
+    "Value": "Say Hello is a bot that randomly pairs colleagues each week to help encourage cross firm networking and collaboration. Click on the below link 'Terms of use' to find out more.",
     "Description": "The app (and bot) description."
   },
   "appIconUrl": {
-    "Value": "https://raw.githubusercontent.com/gtknowledgeshare/microsoft-teams-apps-sayhello/main/Manifest/color.png",
+    "Value": "https://uo/microsoft-teams-apps-sayhello_weekly/main/Manifest/color.png",
     "Description": "The link to the icon for the app. It must resolve to a PNG file."
   },
   "companyName": {
