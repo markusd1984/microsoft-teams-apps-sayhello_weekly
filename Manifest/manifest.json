@@ -1,0 +1,43 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.3/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.3",
+  "version": "1.0.0",
+  "id": "d55d08d9-bacb-4567-942f-afd85d632dcc",
+  "packageName": "com.microsoft.teams.icebreaker",
+  "developer": {
+    "name": "<company name>",
+    "websiteUrl": "<website url>",
+    "privacyUrl": "<privacy url>",
+    "termsOfUseUrl": "<terms of use url>"
+  },
+  "icons": {
+    "color": "color.png",
+    "outline": "outline.png"
+  },
+  "name": {
+    "short": "Say Hello"
+  },
+  "description": {
+    "short": "Say Hello is a bot that randomly pairs colleagues each month for networking.",
+    "full": "Say Hello is a bot that randomly pairs colleagues each month to help encourage cross firm networking and collaboration. Click on below link 'Terms of use' to find out more."
+  },
+  "accentColor": "#00A7B5",
+  "bots": [
+    {
+      "botId": "<bot id>",
+      "scopes": [
+        "personal",
+        "team"
+      ],
+      "supportsFiles": false,
+      "isNotificationOnly": true
+    }
+  ],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "<app domain>"
+  ]
+}
