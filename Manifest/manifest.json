@@ -15,11 +15,11 @@
     "outline": "outline.png"
   },
   "name": {
-    "short": "Say Hello"
+    "short": "Say Hello Weekly"
   },
   "description": {
-    "short": "Say Hello is a bot that randomly pairs colleagues each month for networking.",
-    "full": "Say Hello is a bot that randomly pairs colleagues each month to help encourage cross firm networking and collaboration. Click on below link 'Terms of use' to find out more."
+    "short": "Say Hello is a bot that randomly pairs colleagues each week for networking.",
+    "full": "Say Hello is a bot that randomly pairs colleagues each week to help encourage cross firm networking and collaboration. Click on below link 'Terms of use' to find out more."
   },
   "accentColor": "#00A7B5",
   "bots": [
