@@ -56,7 +56,7 @@
     "Description": "The size of the hosting plan (small - 1, medium - 2, or large - 3). Default value: 1"
   },
   "gitRepoUrl": {
-    "Value": "https://github.com/gtknowledgeshare/microsoft-teams-apps-sayhello.git",
+    "Value": "https://github.com/gtknowledgeshare/microsoft-teams-apps-sayhello_weekly.git",
     "Description": "The URL to the GitHub repository to deploy."
   },
   "gitBranch": {
